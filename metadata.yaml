@@ -1,0 +1,27 @@
+_repo: Memories-of-Hawthorne_6926
+creator:
+  author:
+    agent_name: Lathrop, Rose Hawthorne
+    aliases:
+    - Alphonsa, Mother
+    - Hawthorne, Rose
+    birthdate: 1851
+    deathdate: 1926
+    gutenberg_agent_id: '2261'
+    url: http://www.gutenberg.org/2009/agents/2261
+    wikipedia: http://en.wikipedia.org/wiki/Rose_Hawthorne_Lathrop
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Family'
+- !lcsh 'Novelists, American -- 19th century -- Biography'
+title: Memories of Hawthorne
+url: http://www.gutenberg.org/ebooks/6926
